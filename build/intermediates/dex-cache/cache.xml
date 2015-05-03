@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tony\Desktop\Homework\dsl(android)\Lab1\MyFirstApp2\app\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="C:\Users\Tony\Desktop\Homework\dsl(android)\Lab1\MyFirstApp2\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-25505c011d237b8df43aad6e4e69b17adeb3668e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Desktop\Homework\dsl(android)\Lab1\MyFirstApp2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Tony\Desktop\Homework\dsl(android)\Lab1\MyFirstApp2\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-d12e65d56ceb10b8fffa9e59f9645d9da8dba018.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Desktop\Homework\dsl(android)\Lab1\MyFirstApp2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Tony\Desktop\Homework\dsl(android)\Lab1\MyFirstApp2\app\build\intermediates\pre-dexed\debug\classes-7a04e34d036edba3467a09c0fd441c723df44931.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Tony\Desktop\Homework\dsl(android)\Lab1\MyFirstApp2\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-c51198d65a64a87e7e8c5d9eb639d3dc3d4776fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Desktop\Homework\dsl(android)\Lab1\MyFirstApp2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Tony\Desktop\Homework\dsl(android)\Lab1\MyFirstApp2\app\build\intermediates\pre-dexed\debug\classes-96bc33b976e4b4fa723986b48f51a8e9ee32a879.jar" />
+    </item>
+
+</items>
